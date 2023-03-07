@@ -1,9 +1,9 @@
 # MyYelpcamp
 
-Yelpcamp is a course project from 
-This project is a customized version of the original project developed along the course. \
+Yelpcamp is a course project from [Udemy The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+This project is a customized version of the original project developed along the course. 
 
-To set up developement environment of this project, first install all the npm dependencies: \
+To set up development environment of this project, first install all the npm dependencies:
 
 ```
     npm install
